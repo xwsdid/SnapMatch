@@ -1,0 +1,223 @@
+[
+  {
+    "template_id": "sea_bigshot_01",
+    "title": "万能模板|海边出大片🌊",
+    "tags": ["海边", "旅行", "ins氛围感", "人像"],
+    "hot": 80,
+    "description": "这是一个适用于海边场景的拍照模板，能够帮助您拍出专业级的大片效果。建议将人物置于画面右侧，微微低头看向斜下方，利用自然光突出轮廓，营造ins氛围感，获得最佳构图。",
+    "cover": "sea_bigshot_01/cover.jpg",
+    "example": "sea_bigshot_01/cover.jpg",
+    "overlay": "sea_bigshot_01/overlay.png"
+  },
+  {
+    "template_id": "lake_branch_shadow_01",
+    "title": "湖畔枝影",
+    "tags": ["湖边", "悠闲", "孤独感", "人像"],
+    "hot": 70,
+    "description": "这是一个适用于湖畔场景的拍照模板，能够展现悠闲与孤独氛围。建议人物侧身靠近树枝，眼神自然放空，利用湖面反光和枝影点缀，突出画面层次感。",
+    "cover": "lake_branch_shadow_01/cover.jpg",
+    "example": "lake_branch_shadow_01/cover.jpg",
+    "overlay": "lake_branch_shadow_01/overlay.png"
+  },
+  {
+    "template_id": "rain_umbrella_portrait_01",
+    "title": "雨天透明伞·氛围人像",
+    "tags": ["雨天", "透明伞", "氛围感", "清冷感", "人像", "近景"],
+    "hot": 65,
+    "description": "这是一个适用于雨天场景的拍照模板，能够营造清冷氛围。建议人物手持透明伞靠近镜头，眼神柔和，利用伞面反射和雨滴细节，突出近景氛围与人物情感。",
+    "cover": "rain_umbrella_portrait_01/cover.jpg",
+    "example": "rain_umbrella_portrait_01/cover.jpg",
+    "overlay": "rain_umbrella_portrait_01/overlay.png"
+  },
+  {
+    "template_id": "winter_snowman_selfie_01",
+    "title": "冬日雪人·俯拍自拍",
+    "tags": ["冬天", "雪人", "蓝天", "俯拍", "自拍", "人像"],
+    "hot": 60,
+    "description": "这是一个适用于冬季雪人场景的拍照模板，能够展现蓝天与雪景的清新氛围。建议俯拍自拍，人物与雪人互动，突出冬日童趣与自然光线。",
+    "cover": "winter_snowman_selfie_01/cover.jpg",
+    "example": "winter_snowman_selfie_01/cover.jpg",
+    "overlay": "winter_snowman_selfie_01/overlay.png"
+  },
+  {
+    "template_id": "green_field_walk_01",
+    "title": "草地漫步·清新抓拍",
+    "tags": ["草地", "清新", "绿色穿搭", "校园", "人像", "走路抓拍"],
+    "hot": 58,
+    "description": "这是一个适用于草地漫步场景的拍照模板，能够展现清新自然氛围。建议人物边走边回头，抓拍动作，绿色穿搭与环境融合，突出青春与活力。",
+    "cover": "green_field_walk_01/cover.jpg",
+    "example": "green_field_walk_01/cover.jpg",
+    "overlay": "green_field_walk_01/overlay.png"
+  },
+  {
+    "template_id": "flower_wall_walk_01",
+    "title": "花墙漫步·森系清新",
+    "tags": ["花墙", "森系", "清新", "夏日", "人像", "走路抓拍"],
+    "hot": 57,
+    "description": "这是一个适用于花墙漫步场景的拍照模板，能够营造森系清新氛围。建议人物沿花墙漫步，侧身抓拍，突出夏日自然与轻松感。",
+    "cover": "flower_wall_walk_01/cover.jpg",
+    "example": "flower_wall_walk_01/cover.jpg",
+    "overlay": "flower_wall_walk_01/overlay.png"
+  },
+  {
+    "template_id": "lakeside_sideglance_01",
+    "title": "湖边侧身回头·氛围人像",
+    "tags": ["湖边", "蓝调", "氛围感", "人像", "回头", "旅行"],
+    "hot": 56,
+    "description": "这是一个适用于湖边旅行场景的拍照模板，能够营造蓝调氛围。建议人物侧身回头，眼神自然，利用湖面反射和环境色调，突出旅行感与画面层次。",
+    "cover": "lakeside_sideglance_01/cover.jpg",
+    "example": "lakeside_sideglance_01/cover.jpg",
+    "overlay": "lakeside_sideglance_01/overlay.png"
+  },
+  {
+    "template_id": "bridge_riverside_backlook_01",
+    "title": "桥边回头·城市旅行",
+    "tags": ["桥", "城市", "旅行", "人像", "回头", "水边"],
+    "hot": 55,
+    "description": "这是一个适用于城市桥边场景的拍照模板，能够展现水岸与城市氛围。建议人物侧身回头望向远方，侧身抓拍，突出旅行与都市感。",
+    "cover": "bridge_riverside_backlook_01/cover.jpg",
+    "example": "bridge_riverside_backlook_01/cover.jpg",
+    "overlay": "bridge_riverside_backlook_01/overlay.png"
+  },
+  {
+    "template_id": "indoor_wink_peace_01",
+    "title": "室内wink·可爱自拍",
+    "tags": ["室内", "自拍", "可爱", "wink", "人像", "日常"],
+    "hot": 54,
+    "description": "这是一个适用于室内自拍场景的拍照模板，能够展现日常可爱氛围。建议人物wink表情，手势比耶，自然光下拍摄，突出亲和力与生活感。",
+    "cover": "indoor_wink_peace_01/cover.png",
+    "example": "indoor_wink_peace_01/cover.png",
+    "overlay": "indoor_wink_peace_01/overlay.png"
+  },
+  {
+    "template_id": "stone_steps_cheongsam_01",
+    "title": "石阶台阶·低头下楼",
+    "tags": ["台阶", "石阶", "人像", "抓拍", "文艺", "街拍"],
+    "hot": 53,
+    "description": "这是一个适用于石阶台阶场景的拍照模板，能够营造文艺街拍氛围。建议人物低头下楼，动作自然，侧身抓拍，突出文艺与生活感。",
+    "cover": "stone_steps_cheongsam_01/cover.jpg",
+    "example": "stone_steps_cheongsam_01/cover.jpg",
+    "overlay": "stone_steps_cheongsam_01/overlay.png"
+  },
+  {
+    "template_id": "cafe_milktea_chinrest_01",
+    "title": "咖啡馆奶茶·托腮氛围",
+    "tags": ["咖啡馆", "奶茶", "氛围感", "人像", "桌拍", "近景"],
+    "hot": 52,
+    "description": "这是一个适用于咖啡馆奶茶场景的拍照模板，能够营造温馨氛围。建议人物托腮坐于桌前，近景拍摄，利用柔和光线突出氛围感与人物表情。",
+    "cover": "cafe_milktea_chinrest_01/cover.jpg",
+    "example": "cafe_milktea_chinrest_01/cover.jpg",
+    "overlay": "cafe_milktea_chinrest_01/overlay.png"
+  },
+  {
+    "template_id": "ancient_town_ninegrid_01",
+    "title": "古镇九宫格·国风侧影",
+    "tags": ["古镇", "国风", "九宫格", "人像", "侧影", "旅行"],
+    "hot": 51,
+    "description": "这是一个适用于古镇旅行场景的拍照模板，能够展现国风侧影。建议人物侧身于古镇建筑前，九宫格构图，突出旅行氛围与画面层次。",
+    "cover": "ancient_town_ninegrid_01/cover.jpg",
+    "example": "ancient_town_ninegrid_01/cover.jpg",
+    "overlay": "ancient_town_ninegrid_01/overlay.png"
+  },
+  {
+    "template_id": "street_crouch_peace_01",
+    "title": "街拍蹲姿·对镜比耶",
+    "tags": ["街拍", "ins", "动感", "人像", "蹲姿", "比耶"],
+    "hot": 50,
+    "description": "这是一个适用于街拍动感场景的拍照模板，能够展现青春与活力。建议人物蹲姿对镜比耶，抓拍动作，突出ins风格与动感氛围。",
+    "cover": "street_crouch_peace_01/cover.jpg",
+    "example": "street_crouch_peace_01/cover.jpg",
+    "overlay": "street_crouch_peace_01/overlay.png"
+  },
+  {
+    "template_id": "ice_castle_lowangle_01",
+    "title": "冰雪城堡·低角度仰拍",
+    "tags": ["冬天", "冰雪", "仰拍", "人像", "旅行", "蓝天"],
+    "hot": 49,
+    "description": "这是一个适用于冰雪城堡场景的拍照模板，能够展现冬季蓝天与建筑氛围。建议低角度仰拍，人物与城堡同框，突出宏伟与清新感。",
+    "cover": "ice_castle_lowangle_01/cover.jpg",
+    "example": "ice_castle_lowangle_01/cover.jpg",
+    "overlay": "ice_castle_lowangle_01/overlay.png"
+  },
+  {
+    "template_id": "sunset_bench_backview_01",
+    "title": "日落长椅·背影留白",
+    "tags": ["日落", "背影", "风景", "留白", "氛围感", "旅行"],
+    "hot": 48,
+    "description": "这是一个适用于日落长椅场景的拍照模板，能够营造留白与氛围感。建议人物背影坐于长椅，画面留白，突出日落色调与旅行情绪。",
+
+    "cover": "sunset_bench_backview_01/cover.jpg",
+    "example": "sunset_bench_backview_01/cover.jpg",
+    "overlay": "sunset_bench_backview_01/overlay.png"
+  },
+  {
+    "template_id": "seaside_rocks_backlook_01",
+    "title": "海边礁石·回头氛围",
+    "tags": ["海边", "礁石", "人像", "回头", "旅行", "日落"],
+    "hot": 47,
+    "description": "这是一个适用于海边礁石场景的拍照模板，能够展现日落与旅行氛围。建议人物回头站于礁石，利用自然光和海景，突出氛围与画面层次。",
+    "cover": "seaside_rocks_backlook_01/cover.jpg",
+    "example": "seaside_rocks_backlook_01/cover.jpg",
+    "overlay": "seaside_rocks_backlook_01/overlay.png"
+  },
+  {
+    "template_id": "bougainvillea_wall_reading_01",
+    "title": "三角梅花墙·文艺阅读",
+    "tags": ["花墙", "三角梅", "文艺", "人像", "清新", "阅读"],
+    "hot": 46,
+    "description": "这是一个适用于三角梅花墙场景的拍照模板，能够营造文艺清新氛围。建议人物靠近花墙阅读，侧身抓拍，突出自然与文艺感。",
+    "cover": "bougainvillea_wall_reading_01/cover.jpg",
+    "example": "bougainvillea_wall_reading_01/cover.jpg",
+    "overlay": "bougainvillea_wall_reading_01/overlay.png"
+  },
+  {
+    "template_id": "car_window_grassland_01",
+    "title": "车窗草原·侧脸远望",
+    "tags": ["车窗", "草原", "侧脸", "旅行", "人像", "氛围感"],
+    "hot": 45,
+    "description": "这是一个适用于车窗草原场景的拍照模板，能够展现旅行氛围。建议人物侧脸远望窗外，利用草原背景和自然光，突出画面空间感。",
+    "cover": "car_window_grassland_01/cover.jpg",
+    "example": "car_window_grassland_01/cover.jpg",
+    "overlay": "car_window_grassland_01/overlay.png"
+  },
+  {
+    "template_id": "snow_mountain_wideangle_01",
+    "title": "雪山广角·下三分之一",
+    "tags": ["雪山", "广角", "风景", "旅行", "人像", "构图"],
+    "hot": 44,
+    "description": "这是一个适用于雪山广角场景的拍照模板，能够展现风景与旅行氛围。建议下三分之一构图，人物与雪山同框，突出广阔与自然感。",
+    "cover": "snow_mountain_wideangle_01/cover.jpg",
+    "example": "snow_mountain_wideangle_01/cover.jpg",
+    "overlay": "snow_mountain_wideangle_01/overlay.png"
+  },
+  {
+    "template_id": "snowy_forest_openarms_01",
+    "title": "雪林张开双臂·突出人物",
+    "tags": ["冬天", "雪景", "树林", "人像", "氛围感", "抓拍"],
+    "hot": 43,
+    "description": "这是一个适用于雪林场景的拍照模板，能够营造冬季氛围。建议人物张开双臂，抓拍动作，利用雪景和树林背景，突出人物与环境融合。",
+    "cover": "snowy_forest_openarms_01/cover.jpg",
+    "example": "snowy_forest_openarms_01/cover.jpg",
+    "overlay": "snowy_forest_openarms_01/overlay.png"
+  },
+  {
+    "template_id": "indoor_wink_peace_02",
+    "title": "室内wink·可爱自拍",
+    "tags": ["室内", "自拍", "可爱", "wink", "人像", "日常"],
+    "hot": 42,
+    "description": "这是一个适用于室内自拍场景的拍照模板，能够展现日常可爱氛围。建议人物wink表情，手势比耶，自然光下拍摄，突出亲和力与生活感。",
+    "cover": "indoor_wink_peace_02/cover.png",
+    "example": "indoor_wink_peace_02/cover.png",
+    "overlay": "indoor_wink_peace_02/overlay.png"
+  },
+  {
+  "template_id": "bus_smile_closeup_01",
+  "title": "公交侧颜·治愈微笑",
+  "tags": ["公交", "户外", "儿童", "微笑", "人像", "生活感"],
+  "hot": 38,
+  "description": "这是一个适用于公交出行场景的拍照模板，捕捉孩子自然治愈的侧颜微笑。建议利用车内自然光，低角度仰拍，突出童真与生活氛围感。",
+  "cover": "bus_smile_closeup_01/cover.png",
+  "example": "bus_smile_closeup_01/cover.png",
+  "overlay": "bus_smile_closeup_01/overlay.png"
+}
+]

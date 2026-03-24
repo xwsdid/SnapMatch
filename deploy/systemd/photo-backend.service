@@ -1,0 +1,20 @@
+[Unit]
+Description=photo_backend (Gin) API Server
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/root/photo_backend
+# 建议把环境变量统一写到该文件（见 deploy/systemd/photo-backend.env.example）
+EnvironmentFile=/etc/photo_backend.env
+# 先在 /root/photo_backend 目录编译出二进制：photo_backend_server
+ExecStart=/root/photo_backend/photo_backend_server
+Restart=always
+RestartSec=2
+
+# 安全建议：如无特殊需求，可把日志交给 journalctl
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

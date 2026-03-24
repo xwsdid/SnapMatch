@@ -1,0 +1,13 @@
+{
+    "go.gopath": "${env:GOPATH}",
+    "go.toolsManagement.autoUpdate": true,
+    "go.lintOnSave": "workspace",
+    "go.formatOnSave": true,
+    "go.buildOnSave": true,
+    "go.testOnSave": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/photo_backend.exe": true
+    }
+}
