@@ -193,24 +193,24 @@ func candidateStaticDirs() []string {
 	return dirs
 }
 
-//“写死”推荐的拍照模板
-func GetRecommendedTemplates(userID uint) ([]string, error) {
-    // 逻辑核心：写死演示账号 ID
-    const demoUserID uint = 1 
+// //“写死”推荐的拍照模板
+// func GetRecommendedTemplates(userID uint) ([]string, error) {
+//     // 逻辑核心：写死演示账号 ID
+//     const demoUserID uint = 1 
 
-    if userID == demoUserID {
-        // 1. 模拟读取偏好表数据（让数据库查询日志看起来很真实）
-        var pref model.Preference
-        dao.DB.Where("user_id = ?", demoUserID).First(&pref) // [cite: 47]
+//     if userID == demoUserID {
+//         // 1. 模拟读取偏好表数据（让数据库查询日志看起来很真实）
+//         var pref model.Preference
+//         dao.DB.Where("user_id = ?", demoUserID).First(&pref) // [cite: 47]
 
-        // 2. 演示，直接返回你准备好的最美模板 URL
-        // 对应软件界面中的“热门模板”模块 [cite: 2]
-        return []string{
-            "http://your-server-ip/static/template_sea.jpg",
-            "http://your-server-ip/static/template_ins.jpg",
-        }, nil
-    }
+//         // 2. 演示，直接返回你准备好的最美模板 URL
+//         // 对应软件界面中的“热门模板”模块 [cite: 2]
+//         return []string{
+//             "http://your-server-ip/static/template_sea.jpg",
+//             "http://your-server-ip/static/template_ins.jpg",
+//         }, nil
+//     }
 
-    // 非演示用户才考虑调用模型（当前直接返回默认值即可）
-    return []string{"http://your-server-ip/static/default.jpg"}, nil
-}
+//     // 非演示用户才考虑调用模型（当前直接返回默认值即可）
+//     return []string{"http://your-server-ip/static/default.jpg"}, nil
+// }

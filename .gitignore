@@ -7,3 +7,6 @@ __pycache__/
 *.exe
 *.so
 *.dylib
+# # 忽略用户头像和临时模板素材
+# static/avatars/**
+# static/templates/**/*.png

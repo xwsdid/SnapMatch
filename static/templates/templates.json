@@ -219,5 +219,135 @@
   "cover": "bus_smile_closeup_01/cover.png",
   "example": "bus_smile_closeup_01/cover.png",
   "overlay": "bus_smile_closeup_01/overlay.png"
+},
+{
+  "template_id": "grass_funny_eyebrow_01",
+  "title": "草地搞怪·狗尾草眉毛",
+  "tags": ["草地", "户外", "儿童", "搞怪", "自然", "童趣"],
+  "hot": 45,
+  "description": "这是一个适用于户外草地的拍照模板，用狗尾草做创意眉毛，搭配夸张表情。建议在明亮自然光下拍摄，突出孩子的活泼与创意感。",
+  "cover": "grass_funny_eyebrow_01/cover.png",
+  "example": "grass_funny_eyebrow_01/cover.png",
+  "overlay": "grass_funny_eyebrow_01/overlay.png"
+},
+{
+  "template_id": "grass_balance_openarm_01",
+  "title": "草坪平衡·张开双臂",
+  "tags": ["草坪", "户外", "儿童", "平衡", "自由", "清新"],
+  "hot": 40,
+  "description": "这是一个适用于户外草坪的拍照模板，让孩子在平衡木上张开双臂，展现自由感。建议浅景深拍摄，突出人物与开阔背景的清新氛围。",
+  "cover": "grass_balance_openarm_01/cover.png",
+  "example": "grass_balance_openarm_01/cover.png",
+  "overlay": "grass_balance_openarm_01/overlay.png"
+},
+{
+  "template_id": "seaside_triangle_profile_01",
+  "title": "海边三角·沉静侧颜",
+  "tags": ["海边", "户外", "人像", "三角构图", "沉静", "氛围感"],
+  "hot": 50,
+  "description": "这是一个适用于海边的拍照模板，采用三角形构图稳定画面，捕捉人物侧颜轮廓与眼神光。建议俯拍视角，利用侧光突出人物轮廓，营造平静氛围感。",
+  "cover": "seaside_triangle_profile_01/cover.png",
+  "example": "seaside_triangle_profile_01/cover.png",
+  "overlay": "seaside_triangle_profile_01/overlay.png"
+},
+{
+  "template_id": "sky_duck_raise_01",
+  "title": "蓝天举鸭·童趣仰拍",
+  "tags": ["蓝天", "户外", "儿童", "仰拍", "清新", "活力"],
+  "hot": 43,
+  "description": "这是一个适用于晴朗蓝天的拍照模板，让孩子高举小黄鸭玩具，仰拍视角突出天空的纯净与孩子的活力。建议顺光拍摄，让画面明亮通透，充满夏日感。",
+  "cover": "sky_duck_raise_01/cover.png",
+  "example": "sky_duck_raise_01/cover.png",
+  "overlay": "sky_duck_raise_01/overlay.png"
+},
+{
+  "template_id": "sky_ball_fun_01",
+  "title": "蓝天玩球·俏皮wink",
+  "tags": ["蓝天", "户外", "儿童", "玩闹", "俏皮", "色彩"],
+  "hot": 44,
+  "description": "这是一个适用于户外玩闹场景的拍照模板，孩子手持黄色道具、wink表情，搭配空中黄球，突出活泼俏皮感。建议高饱和蓝天背景，让色彩对比更鲜明。",
+  "cover": "sky_ball_fun_01/cover.png",
+  "example": "sky_ball_fun_01/cover.png",
+  "overlay": "sky_ball_fun_01/overlay.png"
+},
+{
+  "template_id": "sky_flower_portrait_01",
+  "title": "蓝天捧花·少年感",
+  "tags": ["蓝天", "户外", "人像", "捧花", "少年感", "清新"],
+  "hot": 48,
+  "description": "这是一个适用于户外人像的拍照模板，低角度仰拍，人物手持花束，搭配纯净蓝天背景，突出少年感与文艺氛围。建议侧光拍摄，让面部轮廓更立体。",
+  "cover": "sky_flower_portrait_01/cover.png",
+  "example": "sky_flower_portrait_01/cover.png",
+  "overlay": "sky_flower_portrait_01/overlay.png"
+},
+{
+  "template_id": "rice_field_openarm_01",
+  "title": "稻田欢呼·张开双臂",
+  "tags": ["稻田", "户外", "儿童", "欢呼", "丰收", "自然"],
+  "hot": 39,
+  "description": "这是一个适用于稻田丰收场景的拍照模板，孩子张开双臂、大声欢呼，展现对自然的热爱。建议平视拍摄，让金黄稻田与人物形成呼应，充满乡土活力。",
+  "cover": "rice_field_openarm_01/cover.png",
+  "example": "rice_field_openarm_01/cover.png",
+  "overlay": "rice_field_openarm_01/overlay.png"
+},
+{
+  "template_id": "seaside_walk_smile_01",
+  "title": "海边漫步·随性微笑",
+  "tags": ["海边", "户外", "人像", "漫步", "随性", "清爽"],
+  "hot": 41,
+  "description": "这是一个适用于海边漫步的拍照模板，人物赤脚踩浪、手抚胸口，侧头微笑，突出清爽随性的氛围。建议顺光拍摄，让海水与人物的互动更自然生动。",
+  "cover": "seaside_walk_smile_01/cover.png",
+  "example": "seaside_walk_smile_01/cover.png",
+  "overlay": "seaside_walk_smile_01/overlay.png"
+},
+{
+  "template_id": "window_shadow_portrait_01",
+  "title": "窗边光影·沉静侧望",
+  "tags": ["窗边", "室内", "人像", "光影", "文艺", "沉静"],
+  "hot": 46,
+  "description": "这是一个适用于窗边场景的拍照模板，利用窗格投射的自然光影，人物抱臂低头沉思，突出文艺沉静的氛围。建议侧光拍摄，让光影线条与人物姿态形成呼应。",
+  "cover": "window_shadow_portrait_01/cover.png",
+  "example": "window_shadow_portrait_01/cover.png",
+  "overlay": "window_shadow_portrait_01/overlay.png"
+},
+{
+  "template_id": "green_leaf_flower_portrait_01",
+  "title": "绿植白花·清新正脸",
+  "tags": ["户外", "绿植", "人像", "白花", "清新", "少年感"],
+  "hot": 42,
+  "description": "这是一个适用于户外绿植场景的拍照模板，以白花绿叶为前景，人物正脸直视镜头，突出干净清新的少年感。建议浅景深拍摄，让前景花朵与人物形成层次。",
+  "cover": "green_leaf_flower_portrait_01/cover.png",
+  "example": "green_leaf_flower_portrait_01/cover.png",
+  "overlay": "green_leaf_flower_portrait_01/overlay.png"
+},
+{
+  "template_id": "forest_turn_back_01",
+  "title": "树林回眸·逆光氛围感",
+  "tags": ["树林", "户外", "人像", "回眸", "逆光", "氛围感"],
+  "hot": 47,
+  "description": "这是一个适用于户外树林的拍照模板，人物回头看向镜头，搭配逆光形成的光晕，突出随性慵懒的氛围感。建议下午侧逆光拍摄，让发丝与背景形成通透感。",
+  "cover": "forest_turn_back_01/cover.png",
+  "example": "forest_turn_back_01/cover.png",
+  "overlay": "forest_turn_back_01/overlay.png"
+},
+{
+  "template_id": "flower_sniff_profile_01",
+  "title": "闻花侧颜·温柔氛围感",
+  "tags": ["户外", "绿植", "人像", "闻花", "侧颜", "温柔"],
+  "hot": 49,
+  "description": "这是一个适用于户外花丛的拍照模板，人物凑近白花轻嗅，侧颜线条清晰，突出温柔治愈的氛围。建议暗调背景，让人物与白花形成视觉焦点。",
+  "cover": "flower_sniff_profile_01/cover.png",
+  "example": "flower_sniff_profile_01/cover.png",
+  "overlay": "flower_sniff_profile_01/overlay.png"
+},
+{
+  "template_id": "red_white_pole_laugh_01",
+  "title": "红白柱前·开怀大笑",
+  "tags": ["户外", "草地", "儿童", "大笑", "童趣", "活力"],
+  "hot": 44,
+  "description": "这是一个适用于户外草地的拍照模板，孩子靠在红白柱前，眯眼大笑，充满童真活力。建议仰拍视角，让孩子的笑容与清新草地形成强烈对比。",
+  "cover": "red_white_pole_laugh_01/cover.png",
+  "example": "red_white_pole_laugh_01/cover.png",
+  "overlay": "red_white_pole_laugh_01/overlay.png"
 }
 ]
