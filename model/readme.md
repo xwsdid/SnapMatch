@@ -1,0 +1,1 @@
+本目录定义 GORM 数据模型：描述表结构、字段约束、JSON 序列化与软删除字段，是 dao 自动迁移与 service 读写的基础；该层只放结构体与标签，不承载业务逻辑。user.go：用户（用户名唯一、密码字段对外隐藏、头像 URL、软删）；material.go：素材（user_id/url/status 草稿或作品/template_id/时间/软删）；preference.go：偏好（每用户一条、tags 字符串等）；template_favorite.go：收藏关系（user_id+template_id 唯一）；template_usage.go：使用量统计（template_id 唯一、used_count 计数）。readme.md：目录说明。

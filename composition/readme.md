@@ -1,0 +1,1 @@
+本目录封装 Go 侧“构图分析/推荐”推理能力：加载 ONNX，完成与训练一致的预处理，并输出 9 类构图置信度，供 service/controller 复用；本层不涉及 HTTP 与数据库。composition.go：定义模型与结果结构，初始化 onnxruntime 会话与输入输出 Tensor；实现 Predict（读图→letterbox 到 224×224→mean/std 归一化→推理→Sigmoid→阈值筛选），若无命中则返回最高分作为兜底；并提供 resize/letterbox 等图像处理辅助。readme.md：目录说明。

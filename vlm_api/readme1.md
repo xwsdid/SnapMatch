@@ -1,0 +1,1 @@
+本目录为独立的 Python VLM 推理微服务（FastAPI），为 Go 后端提供“拍摄建议/姿势”等多模态能力：接收图片与 task，返回结构化 JSON；支持模型选择、并发控制、图片缩放与失败降级，便于联调与灰度。app.py：主服务（/health、/model/status、/vlm/infer，multipart 上传图片+task，输出强约束 JSON，可选返回调试信息）；app_v1.py：历史版本/不同提示词策略备份；requirements.txt：依赖清单（torch 需按 CPU/CUDA 自行安装）；test_client.py：联调用例与常用代理环境处理；README.md：运行说明与环境变量；readme1.md：目录说明；.venv、__pycache__：本地环境与缓存。ssss

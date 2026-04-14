@@ -1,0 +1,1 @@
+本目录提供 DAO 基础设施：初始化数据库连接、自动迁移表结构，并向上层暴露可复用的 GORM DB 句柄；具体业务查询/事务通常放在 service 里通过 dao.DB 执行。db.go：从环境变量 PHOTO_DB_DSN 读取 MySQL DSN（缺省可指向本地库），创建 gorm.Open 连接；启动时 AutoMigrate user/material/preference/template_favorite/template_usage 等表，失败即退出以避免运行期出现半初始化状态。readme.md：目录说明。

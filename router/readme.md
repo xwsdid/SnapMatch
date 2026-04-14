@@ -1,0 +1,1 @@
+本目录负责 Gin 路由与中间件装配：创建 Engine、挂载静态资源、配置 CORS 与上传大小限制，并把 controller 的处理函数绑定到 /api 的具体路径；新增/调整接口通常在这里与对应 controller 同步修改。router.go：提供 SetupRouter()，注册静态目录 /static，配置 CORS 允许常用方法与头，设置上传 MaxMultipartMemory，并挂载用户、素材、草稿同步、构图分析、VLM 推理、模板（热门/列表/推荐/详情/搜索）、模板收藏、偏好 tags 等全部路由。readme.md：目录说明。
