@@ -1,0 +1,282 @@
+[
+  {
+    "id": 0,
+    "template_id": "sea_bigshot_01",
+    "file_name": "cover.jpg",
+    "relative_path": "sea_bigshot_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/sea_bigshot_01/cover.jpg",
+    "cover_url_path": "/static/templates/sea_bigshot_01/cover.jpg?v=1773932887"
+  },
+  {
+    "id": 1,
+    "template_id": "lake_branch_shadow_01",
+    "file_name": "cover.jpg",
+    "relative_path": "lake_branch_shadow_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/lake_branch_shadow_01/cover.jpg",
+    "cover_url_path": "/static/templates/lake_branch_shadow_01/cover.jpg?v=1773932886"
+  },
+  {
+    "id": 2,
+    "template_id": "rain_umbrella_portrait_01",
+    "file_name": "cover.jpg",
+    "relative_path": "rain_umbrella_portrait_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/rain_umbrella_portrait_01/cover.jpg",
+    "cover_url_path": "/static/templates/rain_umbrella_portrait_01/cover.jpg?v=1773932886"
+  },
+  {
+    "id": 3,
+    "template_id": "winter_snowman_selfie_01",
+    "file_name": "cover.jpg",
+    "relative_path": "winter_snowman_selfie_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/winter_snowman_selfie_01/cover.jpg",
+    "cover_url_path": "/static/templates/winter_snowman_selfie_01/cover.jpg?v=1773932892"
+  },
+  {
+    "id": 4,
+    "template_id": "green_field_walk_01",
+    "file_name": "cover.jpg",
+    "relative_path": "green_field_walk_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/green_field_walk_01/cover.jpg",
+    "cover_url_path": "/static/templates/green_field_walk_01/cover.jpg?v=1773932883"
+  },
+  {
+    "id": 5,
+    "template_id": "flower_wall_walk_01",
+    "file_name": "cover.jpg",
+    "relative_path": "flower_wall_walk_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/flower_wall_walk_01/cover.jpg",
+    "cover_url_path": "/static/templates/flower_wall_walk_01/cover.jpg?v=1773932883"
+  },
+  {
+    "id": 6,
+    "template_id": "lakeside_sideglance_01",
+    "file_name": "cover.jpg",
+    "relative_path": "lakeside_sideglance_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/lakeside_sideglance_01/cover.jpg",
+    "cover_url_path": "/static/templates/lakeside_sideglance_01/cover.jpg?v=1773932886"
+  },
+  {
+    "id": 7,
+    "template_id": "bridge_riverside_backlook_01",
+    "file_name": "cover.jpg",
+    "relative_path": "bridge_riverside_backlook_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/bridge_riverside_backlook_01/cover.jpg",
+    "cover_url_path": "/static/templates/bridge_riverside_backlook_01/cover.jpg?v=1773932881"
+  },
+  {
+    "id": 8,
+    "template_id": "indoor_wink_peace_01",
+    "file_name": "cover.png",
+    "relative_path": "indoor_wink_peace_01/cover.png",
+    "path": "/root/photo_backend/static/templates/indoor_wink_peace_01/cover.png",
+    "cover_url_path": "/static/templates/indoor_wink_peace_01/cover.png?v=1773932885"
+  },
+  {
+    "id": 9,
+    "template_id": "stone_steps_cheongsam_01",
+    "file_name": "cover.jpg",
+    "relative_path": "stone_steps_cheongsam_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/stone_steps_cheongsam_01/cover.jpg",
+    "cover_url_path": "/static/templates/stone_steps_cheongsam_01/cover.jpg?v=1773932890"
+  },
+  {
+    "id": 10,
+    "template_id": "cafe_milktea_chinrest_01",
+    "file_name": "cover.jpg",
+    "relative_path": "cafe_milktea_chinrest_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/cafe_milktea_chinrest_01/cover.jpg",
+    "cover_url_path": "/static/templates/cafe_milktea_chinrest_01/cover.jpg?v=1773932882"
+  },
+  {
+    "id": 11,
+    "template_id": "ancient_town_ninegrid_01",
+    "file_name": "cover.jpg",
+    "relative_path": "ancient_town_ninegrid_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/ancient_town_ninegrid_01/cover.jpg",
+    "cover_url_path": "/static/templates/ancient_town_ninegrid_01/cover.jpg?v=1773932881"
+  },
+  {
+    "id": 12,
+    "template_id": "street_crouch_peace_01",
+    "file_name": "cover.jpg",
+    "relative_path": "street_crouch_peace_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/street_crouch_peace_01/cover.jpg",
+    "cover_url_path": "/static/templates/street_crouch_peace_01/cover.jpg?v=1773932891"
+  },
+  {
+    "id": 13,
+    "template_id": "ice_castle_lowangle_01",
+    "file_name": "cover.jpg",
+    "relative_path": "ice_castle_lowangle_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/ice_castle_lowangle_01/cover.jpg",
+    "cover_url_path": "/static/templates/ice_castle_lowangle_01/cover.jpg?v=1773932884"
+  },
+  {
+    "id": 14,
+    "template_id": "sunset_bench_backview_01",
+    "file_name": "cover.jpg",
+    "relative_path": "sunset_bench_backview_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/sunset_bench_backview_01/cover.jpg",
+    "cover_url_path": "/static/templates/sunset_bench_backview_01/cover.jpg?v=1773932891"
+  },
+  {
+    "id": 15,
+    "template_id": "seaside_rocks_backlook_01",
+    "file_name": "cover.jpg",
+    "relative_path": "seaside_rocks_backlook_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/seaside_rocks_backlook_01/cover.jpg",
+    "cover_url_path": "/static/templates/seaside_rocks_backlook_01/cover.jpg?v=1773932888"
+  },
+  {
+    "id": 16,
+    "template_id": "bougainvillea_wall_reading_01",
+    "file_name": "cover.jpg",
+    "relative_path": "bougainvillea_wall_reading_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/bougainvillea_wall_reading_01/cover.jpg",
+    "cover_url_path": "/static/templates/bougainvillea_wall_reading_01/cover.jpg?v=1773932881"
+  },
+  {
+    "id": 17,
+    "template_id": "car_window_grassland_01",
+    "file_name": "cover.jpg",
+    "relative_path": "car_window_grassland_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/car_window_grassland_01/cover.jpg",
+    "cover_url_path": "/static/templates/car_window_grassland_01/cover.jpg?v=1773932882"
+  },
+  {
+    "id": 18,
+    "template_id": "snow_mountain_wideangle_01",
+    "file_name": "cover.jpg",
+    "relative_path": "snow_mountain_wideangle_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/snow_mountain_wideangle_01/cover.jpg",
+    "cover_url_path": "/static/templates/snow_mountain_wideangle_01/cover.jpg?v=1773932888"
+  },
+  {
+    "id": 19,
+    "template_id": "snowy_forest_openarms_01",
+    "file_name": "cover.jpg",
+    "relative_path": "snowy_forest_openarms_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/snowy_forest_openarms_01/cover.jpg",
+    "cover_url_path": "/static/templates/snowy_forest_openarms_01/cover.jpg?v=1773932890"
+  },
+  {
+    "id": 20,
+    "template_id": "indoor_wink_peace_02",
+    "file_name": "cover.jpg",
+    "relative_path": "indoor_wink_peace_02/cover.jpg",
+    "path": "/root/photo_backend/static/templates/indoor_wink_peace_02/cover.jpg",
+    "cover_url_path": "/static/templates/indoor_wink_peace_02/cover.jpg?v=1773932885"
+  },
+  {
+    "id": 21,
+    "template_id": "bus_smile_closeup_01",
+    "file_name": "cover.jpg",
+    "relative_path": "bus_smile_closeup_01/cover.jpg",
+    "path": "/root/photo_backend/static/templates/bus_smile_closeup_01/cover.jpg",
+    "cover_url_path": "/static/templates/bus_smile_closeup_01/cover.jpg?v=1774274459"
+  },
+  {
+    "id": 22,
+    "template_id": "grass_funny_eyebrow_01",
+    "file_name": "cover.png",
+    "relative_path": "grass_funny_eyebrow_01/cover.png",
+    "path": "/root/photo_backend/static/templates/grass_funny_eyebrow_01/cover.png",
+    "cover_url_path": "/static/templates/grass_funny_eyebrow_01/cover.png?v=1774274922"
+  },
+  {
+    "id": 23,
+    "template_id": "grass_balance_openarm_01",
+    "file_name": "cover.png",
+    "relative_path": "grass_balance_openarm_01/cover.png",
+    "path": "/root/photo_backend/static/templates/grass_balance_openarm_01/cover.png",
+    "cover_url_path": "/static/templates/grass_balance_openarm_01/cover.png?v=1774275007"
+  },
+  {
+    "id": 24,
+    "template_id": "seaside_triangle_profile_01",
+    "file_name": "cover.png",
+    "relative_path": "seaside_triangle_profile_01/cover.png",
+    "path": "/root/photo_backend/static/templates/seaside_triangle_profile_01/cover.png",
+    "cover_url_path": "/static/templates/seaside_triangle_profile_01/cover.png?v=1774275070"
+  },
+  {
+    "id": 25,
+    "template_id": "sky_duck_raise_01",
+    "file_name": "cover.png",
+    "relative_path": "sky_duck_raise_01/cover.png",
+    "path": "/root/photo_backend/static/templates/sky_duck_raise_01/cover.png",
+    "cover_url_path": "/static/templates/sky_duck_raise_01/cover.png?v=1774275146"
+  },
+  {
+    "id": 26,
+    "template_id": "sky_ball_fun_01",
+    "file_name": "cover.png",
+    "relative_path": "sky_ball_fun_01/cover.png",
+    "path": "/root/photo_backend/static/templates/sky_ball_fun_01/cover.png",
+    "cover_url_path": "/static/templates/sky_ball_fun_01/cover.png?v=1774275202"
+  },
+  {
+    "id": 27,
+    "template_id": "sky_flower_portrait_01",
+    "file_name": "cover.png",
+    "relative_path": "sky_flower_portrait_01/cover.png",
+    "path": "/root/photo_backend/static/templates/sky_flower_portrait_01/cover.png",
+    "cover_url_path": "/static/templates/sky_flower_portrait_01/cover.png?v=1774275274"
+  },
+  {
+    "id": 28,
+    "template_id": "rice_field_openarm_01",
+    "file_name": "cover.png",
+    "relative_path": "rice_field_openarm_01/cover.png",
+    "path": "/root/photo_backend/static/templates/rice_field_openarm_01/cover.png",
+    "cover_url_path": "/static/templates/rice_field_openarm_01/cover.png?v=1774275340"
+  },
+  {
+    "id": 29,
+    "template_id": "seaside_walk_smile_01",
+    "file_name": "cover.png",
+    "relative_path": "seaside_walk_smile_01/cover.png",
+    "path": "/root/photo_backend/static/templates/seaside_walk_smile_01/cover.png",
+    "cover_url_path": "/static/templates/seaside_walk_smile_01/cover.png?v=1774275447"
+  },
+  {
+    "id": 30,
+    "template_id": "window_shadow_portrait_01",
+    "file_name": "cover.png",
+    "relative_path": "window_shadow_portrait_01/cover.png",
+    "path": "/root/photo_backend/static/templates/window_shadow_portrait_01/cover.png",
+    "cover_url_path": "/static/templates/window_shadow_portrait_01/cover.png?v=1774275537"
+  },
+  {
+    "id": 31,
+    "template_id": "green_leaf_flower_portrait_01",
+    "file_name": "cover.png",
+    "relative_path": "green_leaf_flower_portrait_01/cover.png",
+    "path": "/root/photo_backend/static/templates/green_leaf_flower_portrait_01/cover.png",
+    "cover_url_path": "/static/templates/green_leaf_flower_portrait_01/cover.png?v=1774275612"
+  },
+  {
+    "id": 32,
+    "template_id": "forest_turn_back_01",
+    "file_name": "cover.png",
+    "relative_path": "forest_turn_back_01/cover.png",
+    "path": "/root/photo_backend/static/templates/forest_turn_back_01/cover.png",
+    "cover_url_path": "/static/templates/forest_turn_back_01/cover.png?v=1774275699"
+  },
+  {
+    "id": 33,
+    "template_id": "flower_sniff_profile_01",
+    "file_name": "cover.png",
+    "relative_path": "flower_sniff_profile_01/cover.png",
+    "path": "/root/photo_backend/static/templates/flower_sniff_profile_01/cover.png",
+    "cover_url_path": "/static/templates/flower_sniff_profile_01/cover.png?v=1774275795"
+  },
+  {
+    "id": 34,
+    "template_id": "red_white_pole_laugh_01",
+    "file_name": "cover.png",
+    "relative_path": "red_white_pole_laugh_01/cover.png",
+    "path": "/root/photo_backend/static/templates/red_white_pole_laugh_01/cover.png",
+    "cover_url_path": "/static/templates/red_white_pole_laugh_01/cover.png?v=1774275860"
+  }
+]

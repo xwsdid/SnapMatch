@@ -1,0 +1,367 @@
+﻿{
+  "headings": [
+    {
+      "paragraph_index": 27,
+      "style": "2",
+      "title": "需求分析",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 28,
+      "style": "3",
+      "title": "1.1 开发背景",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 34,
+      "style": "3",
+      "title": "1.2 市场分析",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 35,
+      "style": "4",
+      "title": "1.2.1 核心痛点",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 51,
+      "style": "4",
+      "title": "1.2.2 目标用户",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 56,
+      "style": "4",
+      "title": "1.2.3 竞品分析",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 65,
+      "style": "2",
+      "title": "概要设计",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 66,
+      "style": "3",
+      "title": "2.1 系统架构设计",
+      "cn_chars": 6
+    },
+    {
+      "paragraph_index": 73,
+      "style": "3",
+      "title": "2.2 端云协同架构",
+      "cn_chars": 6
+    },
+    {
+      "paragraph_index": 78,
+      "style": "4",
+      "title": "2.2.1 服务器端分层架构",
+      "cn_chars": 8
+    },
+    {
+      "paragraph_index": 87,
+      "style": "3",
+      "title": "2.3 模块间的层次结构与调用关系",
+      "cn_chars": 13
+    },
+    {
+      "paragraph_index": 88,
+      "style": "4",
+      "title": "2.3.1 业务模块划分",
+      "cn_chars": 6
+    },
+    {
+      "paragraph_index": 97,
+      "style": "4",
+      "title": "2.3.2 典型调用链",
+      "cn_chars": 5
+    },
+    {
+      "paragraph_index": 105,
+      "style": "2",
+      "title": "详细设计",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 106,
+      "style": "3",
+      "title": "3.1 系统详细设计",
+      "cn_chars": 6
+    },
+    {
+      "paragraph_index": 111,
+      "style": "4",
+      "title": "3.1.1 前端设计",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 130,
+      "style": "4",
+      "title": "3.1.2 后端设计",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 148,
+      "style": "3",
+      "title": "3.2 数据库设计",
+      "cn_chars": 5
+    },
+    {
+      "paragraph_index": 160,
+      "style": "3",
+      "title": "3.3 关键算法与技术创新",
+      "cn_chars": 9
+    },
+    {
+      "paragraph_index": 167,
+      "style": "4",
+      "title": "3.3.1 模板推荐拍摄模块",
+      "cn_chars": 8
+    },
+    {
+      "paragraph_index": 182,
+      "style": "4",
+      "title": "3.3.2 个性化美学构图推荐模块",
+      "cn_chars": 11
+    },
+    {
+      "paragraph_index": 194,
+      "style": "4",
+      "title": "3.3.3 经典构图识别与导学模块",
+      "cn_chars": 11
+    },
+    {
+      "paragraph_index": 201,
+      "style": "4",
+      "title": "3.3.4 AI实景拍摄建议与姿势智能引导模块",
+      "cn_chars": 15
+    },
+    {
+      "paragraph_index": 211,
+      "style": "2",
+      "title": "测试报告",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 212,
+      "style": "3",
+      "title": "4.1 软件测试",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 213,
+      "style": "4",
+      "title": "4.1.1 测试环境说明",
+      "cn_chars": 6
+    },
+    {
+      "paragraph_index": 217,
+      "style": "4",
+      "title": "4.1.2 测试结果",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 250,
+      "style": "4",
+      "title": "4.1.3 测试结果分析",
+      "cn_chars": 6
+    },
+    {
+      "paragraph_index": 262,
+      "style": "3",
+      "title": "4.2 多维度技术指标说明",
+      "cn_chars": 9
+    },
+    {
+      "paragraph_index": 264,
+      "style": "4",
+      "title": "4.2.1 运行速度",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 266,
+      "style": "4",
+      "title": "4.2.2 安全性",
+      "cn_chars": 3
+    },
+    {
+      "paragraph_index": 270,
+      "style": "4",
+      "title": "4.2.3 部署方便性",
+      "cn_chars": 5
+    },
+    {
+      "paragraph_index": 274,
+      "style": "4",
+      "title": "4.2.4 可用性",
+      "cn_chars": 3
+    },
+    {
+      "paragraph_index": 279,
+      "style": "4",
+      "title": "4.2.5 扩展性",
+      "cn_chars": 3
+    },
+    {
+      "paragraph_index": 283,
+      "style": "2",
+      "title": "安装及使用",
+      "cn_chars": 5
+    },
+    {
+      "paragraph_index": 284,
+      "style": "3",
+      "title": "5.1 下载与安装",
+      "cn_chars": 5
+    },
+    {
+      "paragraph_index": 285,
+      "style": "4",
+      "title": "5.1.1 安装环境要求",
+      "cn_chars": 6
+    },
+    {
+      "paragraph_index": 292,
+      "style": "4",
+      "title": "5.1.2 安装过程",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 308,
+      "style": "4",
+      "title": "5.1.3 权限申请说明",
+      "cn_chars": 6
+    },
+    {
+      "paragraph_index": 312,
+      "style": "3",
+      "title": "5.2 注册登录及功能使用",
+      "cn_chars": 9
+    },
+    {
+      "paragraph_index": 313,
+      "style": "4",
+      "title": "5.2.1 注册与登录",
+      "cn_chars": 5
+    },
+    {
+      "paragraph_index": 318,
+      "style": "4",
+      "title": "5.2.2 热门模板拍摄模块",
+      "cn_chars": 8
+    },
+    {
+      "paragraph_index": 328,
+      "style": "4",
+      "title": "5.2.3 智能摄影拍摄模块",
+      "cn_chars": 8
+    },
+    {
+      "paragraph_index": 341,
+      "style": "4",
+      "title": "5.2.4 用户界面",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 349,
+      "style": "2",
+      "title": "项目总结",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 353,
+      "style": "3",
+      "title": "6.1 任务分解",
+      "cn_chars": 4
+    },
+    {
+      "paragraph_index": 354,
+      "style": "4",
+      "title": "6.1.1 系统架构设计",
+      "cn_chars": 6
+    },
+    {
+      "paragraph_index": 356,
+      "style": "4",
+      "title": "6.1.2 系统功能扩展",
+      "cn_chars": 6
+    },
+    {
+      "paragraph_index": 358,
+      "style": "4",
+      "title": "6.1.3 数据库建设与用户数据存储优化",
+      "cn_chars": 14
+    },
+    {
+      "paragraph_index": 363,
+      "style": "3",
+      "title": "6.2 困难与挑战",
+      "cn_chars": 5
+    },
+    {
+      "paragraph_index": 367,
+      "style": "3",
+      "title": "6.3 升级与推广",
+      "cn_chars": 5
+    },
+    {
+      "paragraph_index": 370,
+      "style": "2",
+      "title": "参考文献",
+      "cn_chars": 4
+    }
+  ],
+  "top_sections": [
+    {
+      "title": "需求分析",
+      "start_paragraph_index": 27,
+      "end_paragraph_index": 64,
+      "cn_chars": 3718,
+      "preview": "1.1 开发背景 傍晚时分，你站在海边，金色的落日余晖洒满海面，眼前的美景让你迫不及待地举起手机。然而，当你反复调整角度，按下快门，翻看相册时却发现，照片平平无奇。既没有捕捉到当下的震撼，也无法在朋友圈收获预期的点赞。这样的场景，每天都在无数人身上重复上演。 近年来，智能手机的普及让摄影变得前所未有的便捷，但“拍出好照片”的门槛并未因此降低。据知乎研究院于2025年最新发布的《中国高端手机影像趋势与用户洞察》报告显示[1]，高达77.2%的受访者已将手机作为绝对的主力拍摄设备"
+    },
+    {
+      "title": "概要设计",
+      "start_paragraph_index": 65,
+      "end_paragraph_index": 104,
+      "cn_chars": 1153,
+      "preview": "2.1 系统架构设计 本系统总体架构建设遵循自上而下、从概念到落地的软件工程全生命周期流程。如图 2-1，首先我们进行需求分析，精准挖掘大众摄影的构图痛点与需求，总结出五大痛点问题；进而转入软件设计阶段，我们根据五大核心痛点问题，针对性地设计六大功能模块，确定端云协同架构，并且制定各功能模块对应的技术实现；随后进行软件开发，端侧与云端同步开发，设计与大模型联调模块；最终项目落地于软件应用，将复杂的智能算法转化为用户手中真实可用的智能摄影App——一拍即合。 本系统设计了如图 "
+    },
+    {
+      "title": "详细设计",
+      "start_paragraph_index": 105,
+      "end_paragraph_index": 210,
+      "cn_chars": 4158,
+      "preview": "3.1 系统详细设计 本系统采用Android + Go + MySQL + Python技术栈，前端为Android客户端，基于Kotlin开发，后端为服务器分层架构与Windows主机端，服务器端使用Go语言开发，Windows主机端的AI推理能力通过Python服务(VLM)实现，数据持久化采用MySQL，图片等静态资源存储于服务器本地文件系统。前后端通过RESTful API交互，AI能力通过HTTP协议解耦。 系统主要实现模板推荐拍摄、个性化美学构图推荐、经典构图识"
+    },
+    {
+      "title": "测试报告",
+      "start_paragraph_index": 211,
+      "end_paragraph_index": 282,
+      "cn_chars": 1636,
+      "preview": "4.1 软件测试 4.1.1 测试环境说明 为了全面评估本软件在不同硬件平台上的性能表现与兼容性，选取了两款具有代表性的主流 Android 拍摄设备进行测试，设备详细信息见表 4-1。测试过程中统一采用校园Wi-Fi网络环境，确保网络条件一致。 表 4-1 Android测试设备信息 4.1.2 测试结果 相机启动时间 (a)vivo测试机相机启动时间 (b)OPPO测试机相机启动时间 图 4-1 相机启动时间 拍照响应时间 (a)vivo测试机拍照响应时间 (b)OPPO"
+    },
+    {
+      "title": "安装及使用",
+      "start_paragraph_index": 283,
+      "end_paragraph_index": 348,
+      "cn_chars": 3536,
+      "preview": "5.1 下载与安装 5.1.1 安装环境要求 为了保证一拍即合智能摄影软件中各项智能构图与边缘计算推理功能的流畅运行，本软件的安装环境要求如下： 操作系统：推荐 Android 10 及以上以获得最佳体验； 硬件要求：具备后置摄像头模块的 Android 智能手机，支持自动变焦； 网络要求：需连接互联网； 存储空间：建议预留500MB以上可用空间； 权限要求：首次启动时会弹窗申请权限，相机权限用于拍照、存储权限用于保存图片，用户需允许后方可正常使用相机和存储功能。 5.1.2"
+    },
+    {
+      "title": "项目总结",
+      "start_paragraph_index": 349,
+      "end_paragraph_index": 369,
+      "cn_chars": 1184,
+      "preview": "本项目《一拍即合》从当前大众摄影“高频使用与高废片率并存”的痛点出发，创新性地将深度学习与多模态大模型技术引入移动端摄影前期取景阶段，打造了一款真正意义上的智能摄影辅助软件。在整个作品的制作与开发过程中，团队进行了细致的任务分解，克服了多项技术挑战，并对未来的升级演进与商业落地进行了明确规划。 图 6-1 一拍即合应用效果 6.1 任务分解 6.1.1 系统架构设计 团队首先确立了“端云协同”的整体系统架构。前端采用Android原生开发保障取景交互的流畅性；后端采用Go G"
+    },
+    {
+      "title": "参考文献",
+      "start_paragraph_index": 370,
+      "end_paragraph_index": 379,
+      "cn_chars": 124,
+      "preview": "知乎研究院. 中国高端手机影像趋势与用户洞察[R/OL]. (2025-05-08). https://finance.sina.com.cn/tech/roll/2025-05-08/doc-inevvhch0444996.shtml. MA S, WEI Z, TIAN F, et al. SmartEye: Assisting Instant Photo Taking via Integrating User Preference with Deep View Prop"
+    }
+  ]
+}

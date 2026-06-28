@@ -10,3 +10,6 @@ __pycache__/
 # # 忽略用户头像和临时模板素材
 # static/avatars/**
 # static/templates/**/*.png
+docx/
+比赛提交/
+vlm_api/

@@ -55,7 +55,8 @@ func parseOptionalUserID(c *gin.Context) (uint, bool) {
 // GET /api/templates/hot?limit=20
 // 返回模板图片的可访问 URL 列表（从 static/templates 目录扫描得到）
 func GetHotTemplates(c *gin.Context) {
-	limit := 20
+	// limit := 20
+	limit := 100
 	limitStr := strings.TrimSpace(c.Query("limit"))
 	if limitStr != "" {
 		if v, err := strconv.Atoi(limitStr); err == nil && v > 0 {
@@ -130,7 +131,9 @@ func GetRecommendTemplates(c *gin.Context) {
 		return
 	}
 
-	limit := 20
+	// limit := 20
+	limit := 100
+	
 	if v, err := strconv.Atoi(strings.TrimSpace(c.Query("limit"))); err == nil && v > 0 {
 		limit = v
 	}
